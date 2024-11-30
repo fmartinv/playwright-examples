@@ -1,0 +1,21 @@
+{
+  "name": "playwright-examples",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@cucumber/cucumber": "^10.9.0",
+    "@playwright/test": "^1.46.0",
+    "@types/node": "^22.3.0",
+    "ts-node": "^10.9.2"
+  },
+  "dependencies": {
+    "prettier-plugin-gherkin": "^3.1.0"
+  }
+}
